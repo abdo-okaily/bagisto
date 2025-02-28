@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aba1c180-026c-4d22-be8b-4a574e934604" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/packages/Webkul/Core/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Attribute/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Tax/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Customer/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/SocialLogin/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/CartRule/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Rule/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Inventory/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Shipping/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Installer/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Admin/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Sales/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Product/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Category/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/User/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/SocialShare/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Paypal/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Checkout/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Shop/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/CatalogRule/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Payment/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/CMS/composer.json" />
+      <option value="$PROJECT_DIR$/packages/Webkul/Theme/composer.json" />
+    </option>
+  </component>
+  <component name="ComposerSettings" notifyAboutMissingVendor="false" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.2.11/bin/php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2tgSPN68WTAl9RmhZrDFIZO04rc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-a98d8de5180a-693d11bca00f-com.jetbrains.php.sharedIndexes-PS-251.22821.56" />
+        <option value="php-doctrine_inflector-5e308b340ac6-7ae0cd3a" />
+        <option value="php-egulias_email_validator-5e308b340ac6-1d54c566" />
+        <option value="php-laravel_framework-5e308b340ac6-2ec8ccbd" />
+        <option value="php-league_commonmark-5e308b340ac6-39e68707" />
+        <option value="php-league_flysystem-5e308b340ac6-db1bca70" />
+        <option value="php-mockery_mockery-5e308b340ac6-d2a5651b" />
+        <option value="php-nesbot_carbon-5e308b340ac6-603f5f77" />
+        <option value="php-nette_utils-5e308b340ac6-2b43b993" />
+        <option value="php-nunomaduro_termwind-5e308b340ac6-5505d14d" />
+        <option value="php-phpstan_phpdoc_parser-5e308b340ac6-123717c2" />
+        <option value="php-phpunit_php_code_coverage-5e308b340ac6-1d0f4ede" />
+        <option value="php-phpunit_phpunit-5e308b340ac6-e23b74af" />
+        <option value="php-ramsey_uuid-5e308b340ac6-4fca5693" />
+        <option value="php-vlucas_phpdotenv-5e308b340ac6-4f64de24" />
+        <option value="php-voku_portable_ascii-5e308b340ac6-ea39fac5" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aba1c180-026c-4d22-be8b-4a574e934604" name="Changes" comment="" />
+      <created>1740772200591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740772200591</updated>
+      <workItem from="1740772202347" duration="397000" />
+    </task>
+    <servers />
+  </component>
+</project>
